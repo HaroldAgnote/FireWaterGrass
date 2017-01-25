@@ -1,0 +1,10 @@
+<resources>
+    <string name = "app_name">FireWaterGrass</string>
+    <string name = "novice_menu">Novice</string>
+    <string name = "veteran_menu">Veteran</string>
+
+    <string name = "player_name">P1 Score: </string>
+    <string name = "psychic_name">CPU Score: </string>
+    <string name = "zero">0</string>
+    <string name = "confirm_button">Go!</string>
+</resources>
